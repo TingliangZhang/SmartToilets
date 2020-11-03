@@ -22,3 +22,5 @@ BOOT0用10k电阻拉低接地，boot from User Flash memory
 ## 手势传感器
 
 [APDS-9960](https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960)
+
+淘宝卖5.2一个
