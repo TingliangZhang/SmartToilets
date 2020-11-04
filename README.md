@@ -24,3 +24,25 @@ BOOT0用10k电阻拉低接地，boot from User Flash memory
 [APDS-9960](https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960)
 
 淘宝卖5.2一个
+
+
+
+## 电路
+
+![image-20201104100206881](image-20201104100206881.png)
+
+![image-20201104100710012](image-20201104100710012.png)
+
+
+
+## 成本估计
+
+| 品名                | 目前购买价（RMB） | 量产价 |
+| ------------------- | ----------------- | ------ |
+| APDS-9960           | 5.2               |        |
+| STM32G031K8T6       | 4.81              |        |
+| DRV8837C            | 0.5561            |        |
+| TLV62568DBV         | 1.0181            |        |
+| N25电机和其他连接件 | 2                 |        |
+| PCB                 | 1                 |        |
+
