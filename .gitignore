@@ -1,0 +1,11 @@
+*.sch-bak
+*.kicad_pcb-bak
+*.gbr
+*.drl
+*.gbrjob
+ToiletLock/ToiletLock-cache.lib
+ToiletLock/fp-info-cache
+ToiletLock/sym-lib-table
+ToiletLock/ToiletLock-cache.lib
+*.dcm
+ToiletLock/ToiletLock-rescue.lib
